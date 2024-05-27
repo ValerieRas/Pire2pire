@@ -7,12 +7,12 @@ Bienvenue dans le dépôt du projet Pire2Pire. Ce projet implique l'organisation
 1. [Definition Merise](#definition-merise) 
 2. [Contexte du Projet](#contexte-du-projet)
 3. [Livrables](#livrables)
-4. [MERISE](#merise)
-    - [MCD](merise/MCD.png)
-    - [MLD](merise/MLD.png)
-    - [MPD](merise/MPD.md)
-5. [Règles de Gestion](doc/management_rules.md)
-6. [Dictionnaire de Données](doc/data_dictionary.md)
+4. [MERISE](Merise/)
+    - [MCD](Merise/MCD.png)
+    - [MLD](Merise/MLD.png)
+    - [MPD](Merise/MPD.md)
+5. [Règles de Gestion](Doc/management_rules.md)
+6. [Dictionnaire de Données](Doc/data_dictionnary.md)
 
 
 # Definition Merise : 
