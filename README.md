@@ -15,7 +15,7 @@ Bienvenue dans le dépôt du projet Pire2Pire. Ce projet implique l'organisation
 6. [Dictionnaire de Données](Doc/data_dictionnary.md)
 
 
-# Definition Merise : 
+# Definition Merise 
 
 MERISE (**M**éthode d'**É**tude et de **R**éalisation **I**nformatique pour les **S**ystèmes d'**E**ntreprise) est une méthode de conception et de gestion de projets informatiques. Elle est basée sur une approche systémique et se distingue par la séparation des données et des traitements. MERISE utilise trois niveaux d'abstraction pour modéliser un système d'information : le conceptuel, le logique et le physique. Ces niveaux permettent de structurer et d'organiser l'information de manière cohérente et évolutive.
 
